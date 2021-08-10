@@ -1,7 +1,9 @@
-import ExamplePage from "./pages/ExamplePage";
+// import SetStatePage from "./pages/01 SetStatePage";
+import UseReducerPage from "./pages/02-UseReducerPage";
 
 function App() {
-  return <ExamplePage />;
+  // return <SetStatePage />;
+  return <UseReducerPage />;
 }
 
 export default App;
